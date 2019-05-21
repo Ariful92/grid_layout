@@ -1,0 +1,25 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: #FFAEC9;
+	padding: 10px 0;
+}
+h3{
+	text-align: center;
+}
+.bg{
+	background-color: #99D9EA;
+	height: 90px;
+	border: 5px solid green;
+	font-size: 22px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.bg3{
+	background-color: #ED1C24;
+	height: 90px;
+	border: 5px solid green;
+	font-size: 22px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	text-align: center;
+}
